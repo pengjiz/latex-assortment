@@ -1,0 +1,22 @@
+# Core
+*.aux
+*.fls
+*.log
+*.toc
+*.out
+
+# Beamer
+*.nav
+*.pre
+*.snm
+*.vrb
+
+# Build tools
+*.synctex.gz
+*.fdb_latexmk
+
+# Output
+*.pdf
+
+# AUCTeX
+auto/
